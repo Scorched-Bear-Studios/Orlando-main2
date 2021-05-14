@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orlando", "Orlando.csproj", "{02A0F609-39FE-4F2F-A401-16040BB176DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A0F609-39FE-4F2F-A401-16040BB176DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A0F609-39FE-4F2F-A401-16040BB176DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A0F609-39FE-4F2F-A401-16040BB176DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A0F609-39FE-4F2F-A401-16040BB176DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3944ACA6-DDEF-4509-AE23-8BAD0404097B}
+	EndGlobalSection
+EndGlobal
